@@ -33,3 +33,10 @@ The application will prompt the user for the following inputs:
 - Age
 - Address
 - Assessment results for various courses.
+
+Pictures:
+
+![photo_2_2024-10-29_23-46-48](https://github.com/user-attachments/assets/ea7ff9c2-c8e9-4cea-8a14-dccb07bf42c0)
+![photo_1_2024-10-29_23-46-48](https://github.com/user-attachments/assets/d78d5fd5-f231-4aa8-b7f0-74d49770b7a1)
+![photo_4_2024-10-29_23-46-48](https://github.com/user-attachments/assets/e0a4a083-d436-4dda-9b1b-60eec4f44c00)
+![photo_3_2024-10-29_23-46-48](https://github.com/user-attachments/assets/d8935d33-2f88-4ad5-9bbd-8d285ccd0cdc)
